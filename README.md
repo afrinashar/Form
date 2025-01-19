@@ -34,15 +34,7 @@ Predictable state updates for all form interactions
 Installation
  npm install your-package-name
 
- DynamicQuestionForm/
-├── components/
-│   ├── QuestionInput.jsx
-│   ├── DropdownQuestion.jsx
-│   ├── LinkedQuestions.jsx
-│   └── AddQuestionButton.jsx
-├── hooks/
-│   └── useFormState.js
-└── index.jsx
+ 
 
 
 
